@@ -131,5 +131,5 @@ sp500-analysis/
 ---
 
 ## Author
-Your Name - [GitHub Profile](https://github.com/KaydenRumsey/)
+Kayden Rumsey - [GitHub Profile](https://github.com/KaydenRumsey/)
 
