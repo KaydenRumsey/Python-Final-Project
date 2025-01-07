@@ -78,27 +78,6 @@ Three key visualizations were created:
 
 ---
 
-## How to Run the Code
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/KaydenRumsey(https://github.com/KaydenRumsey/Python-Final-Project/tree/main)/sp500-analysis.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd sp500-analysis
-   ```
-3. Install the required Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the analysis script:
-   ```bash
-   python analysis.py
-   ```
-5. The visualizations will be saved in the `visualizations` folder.
-
----
-
 ## Conclusion
 This analysis provides insights into the composition and financial characteristics of S&P 500 companies. By leveraging Python, we explored the dataset to uncover trends across sectors and key financial metrics. These insights can inform investment decisions, sector analysis, and economic studies.
 
