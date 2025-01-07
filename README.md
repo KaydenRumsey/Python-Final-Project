@@ -78,7 +78,7 @@ Three key visualizations were created:
 ## How to Run the Code
 1. Clone this repository:
    ```bash
-   git clone https://github.com/KaydenRumsey(url)/sp500-analysis.git
+   git clone https://github.com/KaydenRumsey(https://github.com/KaydenRumsey/Python-Final-Project/tree/main)/sp500-analysis.git
    ```
 2. Navigate to the project directory:
    ```bash
