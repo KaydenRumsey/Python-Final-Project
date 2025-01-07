@@ -67,11 +67,13 @@ Three key visualizations were created:
 - Highlights the dominance of the Technology sector.
 
 ### 2. Sector Distribution
-![Pie Chart](visualizations/sector_distribution.png)
+
+![KRSectorDistribution](https://github.com/user-attachments/assets/d1872a08-cded-4ecf-86ee-e65d73403fc0)
 - Shows the proportional representation of sectors in the S&P 500.
 
 ### 3. Market Cap vs Revenue
-![Scatter Plot](visualizations/market_cap_vs_revenue.png)
+
+![KRMarketcapvsrev](https://github.com/user-attachments/assets/92102057-ff84-4274-b45f-8b5fa81f8f1d)
 - Displays the positive correlation between market cap and revenue.
 
 ---
