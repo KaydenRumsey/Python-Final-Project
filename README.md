@@ -62,7 +62,8 @@ Three key visualizations were created:
 
 ## Visualizations
 ### 1. Average Market Cap by Sector
-![Bar Chart](visualizations/average_market_cap_by_sector.png)
+
+![KRBarChart](https://github.com/user-attachments/assets/6ce07f4c-e210-4f05-8d97-9aab3012d4d0)
 - Highlights the dominance of the Technology sector.
 
 ### 2. Sector Distribution
