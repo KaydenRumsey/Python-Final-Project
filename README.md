@@ -87,7 +87,7 @@ For more details, refer to the Python scripts and visualizations included in thi
 
 ## Instuctions to Run Code
 1. Open Python Script (KaydenRumseyFinal.ipynb) in Google Colab
-2. Upload data file (stex.csv) to Google Colab notebook]
+2. Upload data file (sp500_companies.csv) to Google Colab notebook]
 3. Run Python script in Google Colab
 
 ## Repository Structure
